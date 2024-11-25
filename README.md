@@ -9,7 +9,7 @@
   - [Mahler foundation - 2nd symphony](https://mahlerfoundation.org/mahler/compositions/symphony-no-2/)
   - [glossary](https://mahlerfoundation.org/mahler/compositions/zoneless/glossary/)
   - [listening guide](https://mahlerfoundation.org/mahler/listening-guide/)
-    - [Introduction]https://mahlerfoundation.org/mahler/listening-guide/introduction/) 11m15s
+    - [Introduction](https://mahlerfoundation.org/mahler/listening-guide/introduction/) 11m15s
     - [	Movement 1: Allegro maestoso: Mit durchaus ernstem und feierlichem Ausdruck](https://mahlerfoundation.org/mahler/listening-guide/listening-guide-movement-1-allegro-maestoso-mit-durchaus-ernstem-und-feierlichem-ausdruck/) 30m48s
     - [Movement 2: Andante moderato. Sehr gemächlich](https://mahlerfoundation.org/mahler/listening-guide/listening-guide-movement-2-andante-moderato-sehr-gemachlich/) 11m37s
     - [Movement 3: In ruhig fliessender Bewegung](https://mahlerfoundation.org/mahler/listening-guide/listening-guide-movement-3-in-ruhig-fliessender-bewegung/) 20m25s
