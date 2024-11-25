@@ -5,7 +5,7 @@
 ## Resources
 - [cello part](sheetmusic/imslp/IMSLP26423-PMLP49406-Mahler_-_Symphony_No2_in_C_minor_(cello-part)a.pdf)
 - [markings](markings.csv)
-- https://mahlerfoundation.org
+- mahlerfoundation.org
   - [Mahler foundation - 2nd symphony](https://mahlerfoundation.org/mahler/compositions/symphony-no-2/)
   - [glossary](https://mahlerfoundation.org/mahler/compositions/zoneless/glossary/)
   - [listening guide](https://mahlerfoundation.org/mahler/listening-guide/)
