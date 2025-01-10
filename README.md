@@ -20,4 +20,4 @@
     - https://de.wikipedia.org/wiki/Auferstehn,_ja_auferstehn_wirst_du
 - recordings
   - [Otto Klemperer and Philharmonia Orchestra](https://open.spotify.com/album/5wQkRryEZq0q2HyNXCL3rv?si=8CEdLNdlRcCzHQIlZ-wSNg)
-  - [](Leonard Bernstein and thr New York Philharmonic)
+  - [Leonard Bernstein and the New York Philharmonic)
