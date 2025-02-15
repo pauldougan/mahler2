@@ -1,0 +1,27 @@
+movement,page_number,high_difficulty_bars,medium_difficulty_bars,low_difficulty_bars,areas
+I,1,0,7,0,fingering intonation
+I,2,0,4,0,tempo
+I,3,2,3,12,articulation bowing intonation
+I,4,4,5,0,fingering intonation
+I,5,0,0,37,bowing intonation
+I,7,0,7,0,articulation bowing
+II,8,0,0,0,
+II,9,0,9,0,articulation fingering
+II,10,2,21,0,articulation fingering intonation
+II,11,0,21,12,articulation fingering
+II,12,0,0,0,
+III,13,0,2,0,articulation
+III,14,44,0,0,col_legno pizz
+III,15,0,0,15,articulation
+III,16,40,0,0,articulation tempo
+III,17,0,17,0,articulation tempo
+III,18,44,6,0,articuation bowing intonation
+III,19,6,11,0,articulation coordingation gliss
+IV,20,2,7,0,tempo
+V,21,0,8,0,bowing tempo
+V,22,20,7,0,intonation
+V,23,0,39,0,bowing rhythm
+V,24,19,14,0,intonation rhythm
+V,25,0,36,0,dynamics
+V,26,0,5,0,intonation
+V,27,0,16,0,intonation
